@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+   
+}
+
+img {
+    margin: 10px;
+    border-radius: 80%;
+}
+
+body {
+    background-image: url("https://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg");
+    background-size: auto;
+  }
+
+ul {
+    text-align: left;
+   margin-left: 330px;
+
+}

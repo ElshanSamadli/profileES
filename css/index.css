@@ -1,0 +1,76 @@
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    overflow: auto;
+    color: white;
+  }
+
+  body {
+    background-image: url("https://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg");
+    background-size: auto;
+  }
+
+.row {
+    display: flex;
+  }
+
+.column {
+    flex: 50%;
+    margin: 1ch;
+  }
+
+
+ img {
+    width: 200px;
+    height: 270px;
+    float: left;
+    border: 3px solid black;
+    margin-right: 1ch;
+    border-radius: 10px;
+  }
+
+.second-image {
+    width: 200px;
+    height: 270px;
+    float: left;
+    border: 3px solid rgb(0, 0, 0);
+    margin-right: 4ch;
+    border-radius: 10px;
+
+}
+
+  .unordered-list {
+    font-family: 'Gelasio', serif;
+    font-size: 22px;
+   }
+
+   p {
+    font-size: 18px;
+    font-family: 'Gelasio', serif;
+    text-align: justify;
+  }
+
+  h1 {
+    font-family: 'Gelasio', serif;
+
+
+  }
+  h2 {
+    font-family: 'Gelasio', serif;
+    font-size: 25px;
+ }
+
+ .p2 {
+    font-size: 42px; 
+    font-family: 'Gelasio', serif;
+ }
+
+ h3{
+    font-family: 'Gelasio', serif;
+ }
+
+ label {
+    font-family: 'Gelasio', serif;
+    font-size: 20px;
+}
